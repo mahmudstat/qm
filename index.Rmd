@@ -30,7 +30,7 @@ knitr:: include_graphics("img/qm.jpg")
 
 **আব্দুল্যাহ আদিল মাহমুদ** 
 
-```{r translator, echo=FALSE, fig.cap = "Translator", fig.align = 'center', out.width = '50%'}
+```{r translator, echo=FALSE, fig.cap = "Author", fig.align = 'center', out.width = '50%'}
 knitr:: include_graphics("img/mahmud.jpg")
 ```
 
